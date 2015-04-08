@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+}
+
+div {
+	background-color: white;
+	float: left;
+	border: 1px solid #ccc ;
+	padding: 20px;
+	margin: 10px;
+};
